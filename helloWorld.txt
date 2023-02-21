@@ -1,2 +1,3 @@
 Howdy y'all
 Having a little trouble authenticating git to my local machine...
+Starting to get the hang of it now...but what's the diffrence between main and master
